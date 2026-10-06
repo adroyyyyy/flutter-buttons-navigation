@@ -14,3 +14,8 @@ A simple Flutter app with a Button Gallery and multiple screens, using Navigator
 - Named routes with Navigator.pushNamed()
 
 ### Screenshots
+![Login Screen.png](screenshots/Login%20Screen.png)
+![Button Gallery.png](screenshots/Button%20Gallery.png)
+![Profile.png](screenshots/Profile.png)
+![Settings.png](screenshots/Settings.png)
+
